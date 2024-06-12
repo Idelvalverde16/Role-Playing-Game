@@ -1,5 +1,5 @@
 # Role-Playing-Game
-Learn basic javascript by building a role playing game
+Learning basic javascript by building a role playing game.
 
 JavaScript is a powerful scripting language that can be used to make web pages interactive. It's one of the core technologies of the web, along with HTML and CSS. All modern browsers support JavaScript.
 
